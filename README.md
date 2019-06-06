@@ -20,7 +20,7 @@ $pkg install python2
 $pkg install ruby
 $gem install lolcat
 $git clone https://github.com/dildoteam/hiv
-$cd Malicious
+$cd hiv
 $pip2 install -r requirements.txt
 $python2 malicious.py
 
@@ -41,7 +41,7 @@ $apt-get install git
 $apt-get install python2 ruby
 $gem install lolcat
 $git clone https://github.com/dildoteam/hiv
-$cd Malicious
+$cd hiv
 $pip2 install -r requirements.txt
 $python2 malicious.py
 
