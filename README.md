@@ -23,6 +23,12 @@ $git clone https://github.com/dildoteam/hiv
 $cd Malicious
 $pip2 install -r requirements.txt
 $python2 malicious.py
+
+IF YOU HAVE SELECTED THE VIRUS TYPE
+cd folder name
+ls it
+cp -f filename /sdcard
+then check the data on your mobile application
 ```
 *after download virus open your file explorer*
 
@@ -38,6 +44,12 @@ $git clone https://github.com/dildoteam/hiv
 $cd Malicious
 $pip2 install -r requirements.txt
 $python2 malicious.py
+
+IF YOU HAVE SELECTED THE VIRUS TYPE
+cd folder name
+ls it
+cp -f filename /sdcard
+then check the data on your mobile application
 ```
 
 
